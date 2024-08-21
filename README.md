@@ -1,6 +1,6 @@
 # WinMicroA
 
-_Note: This Activation contains ***Scripts and Commands*** that Activate your Windows, Change your Windows Edition(Windows home to Windows pro),and Microsoft Office Applications ***ONLY***. When your Windows Security Detected this Activation as a threat or a trojan it is ***completely normal***, because Windows Security are Build to Detect and it is sensitive to Scripts and Commands._
+_Note: This Activation contains ***Scripts and Commands*** that Activate your Windows and Microsoft Office Applications ***ONLY***. When your Windows Security Detected this Activation as a threat or a trojan it is ***completely normal***, because Windows Security are Build to Detect and it is sensitive to Scripts and Commands._
 
 **_Completely Safe_**.
 
