@@ -6,7 +6,7 @@ _Note: This Activation contains ***Scripts and Commands*** that Activate your Wi
 
 ## How to Download.
 
-1.  Download the program. [Download](https://pixeldrain.com/u/BidTYLNJ)
+1.  Download the program. [Download](https://pixeldrain.com/u/QEdBwi97)
 
     _Note: to be able to access this link is to set your DNS_
 
