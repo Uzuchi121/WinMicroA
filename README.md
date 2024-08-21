@@ -1,4 +1,4 @@
-# Windows And Microsoft Activation
+# WinMicroA
 
 _Note: This Activation contains ***Scripts and Commands*** that Activate your Windows and Microsoft Office Applications ***only***. So when your Windows Security Detected this Activation as a threat or a trojan it is ***completely normal***, because Windows Security are Build to Detect Scripts and Commands._
 
