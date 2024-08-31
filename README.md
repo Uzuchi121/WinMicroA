@@ -14,8 +14,6 @@ _- All activations can be linked to a Microsoft account without any issues._
 #### Ohook Activation
 _- This activation method can activate all kinds of Office versions on Windows 8 and higher and their Server equivalent except Office 2010 and Office UWP apps._
 
-_- This activation method works offline and activates Office permanently._
-
 _- This activation method can survive Office repairs, Office updates, and even Windows major feature upgrades. You do not need to reactivate in these cases._
 
 _- For the O365 subscription version, you can't get server side O365 specific features such as 1TB storage in Onedrive. However, almost all other features and 5GB storage in free onedrive account would work fine._
